@@ -1,0 +1,28 @@
+h1 {
+  text-align: center;
+  margin-bottom: 1em;
+}
+#rug {
+  background-color: orange;
+}
+#table {
+  background-color: purple;
+}
+#sofa {
+  background-color: green;
+}
+#chair {
+  background-color: teal;
+}
+li {
+  font-size: 1.5em;
+  list-style-type: none;
+}
+b {
+  font-size: 0.5em;
+}
+img {
+  width: 5em;
+  height: 5em;
+  margin: 1em;
+}
