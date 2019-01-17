@@ -1,6 +1,10 @@
 ## Better Furniture API
 
-This is a project giving an example of an API call using ES6 promises.
+# By Ahmed Khokar
 
-demo URL:
-https://amkhokar-furniture-api.surge.sh
+This is an application that demonstrates the use of an ES6 promise to fetch data.
+
+You can find the live demo at : 
+
+https://amkhokar-better-furniture-api.surge.sh
+
